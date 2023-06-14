@@ -11,6 +11,12 @@ Hope you enjoy
 <br>
 <br>
 
+<h3>Data Input Form</h3>
+<a href="https://forms.gle/uce2kEEP4PMYCGTp6" target="_blank">Click Here</a>
+<br>
+<br>
+
+
 ## LICENSE
 See the [LICENSE](LICENSE) for more information.
 
